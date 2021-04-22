@@ -1,4 +1,4 @@
-# TodoApp Testing
+# React TodoApp Testing
 
 This is a simple todo app with the following features:  
 
